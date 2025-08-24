@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Dane/artefakty lokalne
+out/
+*.pkl
+
+# Tajne klucze
+.env
